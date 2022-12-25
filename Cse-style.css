@@ -1,0 +1,346 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  background-color:#1A1A40;
+}
+
+.main-div {
+  height: 500px;
+}
+
+#top-div {
+  display: flex;
+  justify-content: center;
+}
+#top-div img{
+  width:50px;
+  margin-top:10px;
+}
+
+.h1-header {
+  display: inline-flex;
+  margin-right: 800px;
+    color :#FF6E31;
+  margin-top: 15px;
+}
+
+.link-header {
+  margin-right: 25px;
+  text-decoration: none;
+  color: #FAF0D7;
+  font-size: 20px;
+
+}
+
+.link-header:hover {
+  color: white;
+      background-color:#abd1c6 ;
+      border-radius: 2px;
+}
+.header-img{
+  position: absolute;
+  right:120px;
+  display: flex;
+  margin-top: 40px;
+
+}
+.header-img img{
+width:30vw;
+
+}
+
+.hi-div {
+  text-align: center;
+  margin-top: 200px;
+  margin-left: 120px;
+  color:#FFFBE9;
+  float:left; /*lejon foton e header te rrij ne  line te njejt*/
+  display: inline-block;
+}
+
+
+.hi-div h3 {
+  margin-bottom: 15px;
+  text-align: left;
+
+}
+
+.hi-div p {
+  margin-bottom: 15px;
+  font-family: 'Nerko One', cursive;
+  text-align: left;
+
+}
+
+main {
+  text-align: center;
+
+}
+
+.h3-main {
+margin-top: 300px;
+  color :#FF6E31;
+
+  padding-bottom: 60px;
+  font-family: 'Nerko One', cursive;
+}
+
+main img {
+  width: 500px;
+  margin-top: 50px;
+}
+
+.main-div-ul {
+  display: flex;
+  justify-content: center;
+}
+
+.main-div-ul li {
+  display: inline-block;
+  list-style-type: none;
+}
+
+.main-div-ul p {
+  font-size: 10px;
+  text-align: justify;
+  margin: 20px;
+  line-height: 25px;
+  font-family: 'Nerko One', cursive;
+  color: #FAF0D7;
+}
+
+.img-li-main {
+  width: 200px;
+  border-radius: 80px;
+}
+
+/*learn with us  SECTION*/
+
+.learn-div{
+margin-top: 300px;
+}
+.learn-div li{
+  display: inline-block;
+  margin:60px;
+}
+.learn-div div{
+  background-color: #263159;
+  border-radius: 50px;
+
+}
+
+.learn-h3{
+  margin-top: 100px;
+  color :#F1F7B5;
+    font-family: 'Nerko One', cursive;
+    display: inline-block;
+
+
+}
+.algorithm-div{
+  width:350px;
+  height:250px;
+
+}
+.algorithm-div img{
+  width:150px;
+background-color: #263159;
+
+
+}
+.algorithm-title{
+  margin-bottom: 20px;
+  color:#FFD4B2;
+
+}
+
+
+
+.java-div{
+  width:350px;
+  height:250px;
+
+}
+.java-div img{
+  width:150px;
+  background-color: #263159;
+
+}
+
+.java-title{
+  margin-bottom: 20px;
+  color:#FFD4B2;
+
+}
+
+.web-div{
+  width:350px;
+  height:250px;
+
+
+}
+.web-div img{
+  width:150px;
+    background-color: #263159;
+}
+.web-title{
+  margin-bottom: 20px;
+  color:#FFD4B2;
+
+}
+
+.aok-div{
+  width:350px;
+  height:250px;
+
+}
+.aok-div img{
+  width:150px;
+    background-color: #263159;
+
+}
+
+.aok-title{
+  margin-bottom: 20px;
+  color:#FFD4B2;
+}
+
+.learn-button{
+ width:150px;
+ height:40px;
+ border-radius: 4px;
+ margin-top: 10px;
+ color:#FAAB78;
+ font-weight: 700;
+ background-color: #1C315E;
+border-style: none;
+
+}
+.learn-button:hover{
+  background-color: lightblue;
+}
+
+
+
+
+/*                                      PRICE SECTION*/
+
+
+
+.price-section{
+  margin-top:300px;
+}
+
+.title-price{
+  color :#F1F7B5;
+      font-family: 'Nerko One', cursive;
+      margin-bottom: 20px;
+}
+
+.plan ul {
+  margin:0;
+  padding:0;
+  list-style-type: none;
+}
+
+.plan ul li{
+padding:20px;
+color:#91D8E4;
+background-color: #BFEAF5;
+border-bottom: 1px solid  ;
+
+}
+
+.features{
+  background-color: #BFEAF5;
+}
+
+.plan a{
+  text-decoration: none;
+  background:#FEFF00;
+  padding:10px;
+  color:black;
+  border-radius:4px;
+}
+.plan h2{
+  text-transform: uppercase;
+  color:#AD8E70;
+  letter-spacing: 2px;
+  margin-bottom: 15px;
+  text-shadow: 3px 3px 0 rgba(0,0,0,0.1);
+  background-color: #BFEAF5;
+}
+.plan1 h2{
+  margin-bottom: 0px;
+}
+.plan3 h2{
+  margin-bottom: 0px;
+}
+.plan p{
+  color: #82AAE3;
+  font-family:monospace;
+  background-color: #BFEAF5;
+
+}
+
+.price{
+  font-size: 50px;
+  font-family:serif;
+  margin-bottom: 15px;
+  background-color: lightblue;
+}
+
+.pricing-grid{
+  max-width:750px;
+  margin:0 auto;
+  display:flex;
+
+}
+
+
+.plan{
+background-color:#BFEAF5;
+
+  margin:20px;
+  padding:20px;
+  border-radius: 4px;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  flex:1;
+
+}
+
+.plan >*{
+  flex:1;
+  flex-basis:100%;
+}
+
+.plan .cta{
+  align-self: flex-end;
+}
+
+
+
+/*                 FOOTER SECTION   */
+
+
+footer #social_media{
+  text-align: center;
+  margin-top: 100px;
+}
+
+ #social_media li{
+   display: inline-block;
+   margin:25px;
+   list-style-type: none;
+
+}
+#social_media a{
+text-decoration: none;
+color: white;
+
+}
+#social_media a:hover{
+  background-color: #007580;
+}
