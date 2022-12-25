@@ -1,3 +1,71 @@
+.title{
+
+  font-family: monospace;
+float: left;
+margin-left: 150px;
+  margin-top:40px;
+  color: white;
+}
+.h2{
+  color:white;
+  padding-top: 20px;
+}
+
+
+#main-login{
+  margin-left:440px;
+  background-color: #0f0e17;
+  width:450px;
+  height: 350px;
+  margin-top: 100px;
+  border-radius: 40px;
+  text-align: center;
+  border-style:groove;
+
+
+}
+
+#login-form{
+  padding-top: 10px;
+  display: inline-block;
+
+}
+
+#email{
+  margin:25px;
+  width:230px;
+  height: 30px;
+    background-color: #0f0e17;
+    border-radius: 40px;
+}
+#email:hover{
+  background-color: #DEF5E5;
+}
+#password{
+
+  width:230px;
+  height: 30px;
+  background-color: #0f0e17;
+  border-radius: 40px;
+
+}
+#password:hover{
+  background-color: #DEF5E5;
+}
+#submit-login{
+  margin-top: 20px;
+  width:230px;
+  height: 30px;
+    background-color: #0f0e17;
+    text-align: center;
+    border-radius: 40px;
+    color:#fffffe;
+    box-shadow: 0px 0px 2px 2px rgb(0,0,0);
+}
+#submit-login:hover{
+  background-color:#06283D;
+}
+
 * {
   margin: 0px;
   padding: 0px;
