@@ -1,0 +1,91 @@
+#login-body{
+ 
+ background-image: url('https://cdn.wallpapersafari.com/43/41/RCXfgB.png')
+
+
+
+
+}
+
+
+
+*{
+  text-align: center;
+}
+.register{
+
+
+
+    background-color: #0f0e17;
+    width:450px;
+    height: 380px;
+    margin-top: 100px;
+    border-radius: 40px;
+    display: inline-block;
+    text-align: center;
+    border-style:groove;
+}
+.name{
+  margin:20px;
+  width:150px;
+  height: 30px;
+  border-radius: 8px;
+    background-color: #0f0e17;
+
+}
+.lastname{
+  width:150px;
+  border-radius: 8px;
+  height: 30px;
+    background-color: #0f0e17;
+}
+.register-email{
+  margin:20px;
+  border-radius: 8px;
+  width:150px;
+  height: 30px;
+    background-color: #0f0e17;
+}
+.register-password{
+  border-radius: 8px;
+  width:150px;
+  height: 30px;
+    background-color: #0f0e17;
+}
+.telephone{
+  margin-top:10px;
+  border-radius: 8px;
+  height: 30px;
+    background-color: #0f0e17;
+}
+.telephone:hover{
+  background-color: #DEF5E5;
+}
+.register-password:hover{
+  background-color: #DEF5E5;
+}
+
+.register-email:hover{
+  background-color: #DEF5E5;
+}
+.name:hover{
+  background-color: #DEF5E5;
+}
+.lastname:hover{
+  background-color: #DEF5E5;
+}
+
+#submit-signup{
+  margin-top: 50px;
+  width:230px;
+  height: 30px;
+    background-color: #0f0e17;
+    text-align: center;
+    border-radius: 40px;
+    color:#fffffe;
+      box-shadow: 0px 0px 2px 2px rgb(0,0,0);
+}
+
+#submit-signup:hover{
+  background-color:#06283D;
+}
