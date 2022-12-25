@@ -1,3 +1,88 @@
+*{
+  background-color: #040303;
+}
+
+#header-title h2{
+  font-family: monospace;
+  color:#FCF0C8;
+}
+#header{
+text-align: center;
+margin-top:40px;
+}
+
+#header-div-nav li{
+display: inline-block;
+margin:25px;
+font-family: cursive;
+border-bottom: 1px solid #E6DEDD;
+}
+
+#header-div-nav a:hover{
+  border-radius: 4px;
+  background-color: #F58B54;
+}
+#header-ul-links{
+  list-style-type: none;
+  display: inline-block;
+}
+#header-ul-links a{
+  text-decoration:none;
+  color:#F5C7A9;
+}
+
+
+.key-points{
+margin-top:200px;
+display: flex;
+justify-content: center;
+
+
+}
+.field-key{
+  border-radius: 40px;
+  border-style:outset;
+  border-color: lightblue;
+  color:#F5C7A9;
+  width:400px;
+}
+.key-points li{
+   margin: 20px;
+   font-family: monospace;
+   color:white;
+}
+.key-h4{
+  margin-left:50px;
+}
+
+
+
+/*                        MAIN                        SECTION 1 */
+
+
+.section1{
+  display: flex;
+
+  justify-content:center;
+  margin-top:200px;
+}
+
+.img-div-section1 img{
+  margin-top: 100px;
+   width:300px;
+
+}
+.text-div-section1{
+  margin-left:40px;
+}
+.p-section1{
+margin-top:210px;
+font-weight: 400;
+color:#FFBC97;
+font-family:monospace;
+line-height: 35px;
+
+}
 /*              STACKS  section2*/
 
 
