@@ -93,7 +93,7 @@ margin-left: 150px;
   background-color: #DEF5E5;
 }
 
-#submit-signup{
+.submit{
   margin-top: 50px;
   width:230px;
   height: 30px;
@@ -104,6 +104,6 @@ margin-left: 150px;
       box-shadow: 0px 0px 2px 2px rgb(0,0,0);
 }
 
-#submit-signup:hover{
+.submit:hover{
   background-color:#06283D;
 }
