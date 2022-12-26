@@ -70,15 +70,7 @@ margin-left: 150px;
   height: 30px;
     background-color: #0f0e17;
 }
-.telephone{
-  margin-top:10px;
-  border-radius: 8px;
-  height: 30px;
-    background-color: #0f0e17;
-}
-.telephone:hover{
-  background-color: #DEF5E5;
-}
+
 .register-password:hover{
   background-color: #DEF5E5;
 }
